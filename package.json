@@ -1,6 +1,6 @@
 {
   "name": "native-webview-echarts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "react-native echarts componment",
   "main": "index.js",
   "directories": {
