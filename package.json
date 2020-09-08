@@ -1,0 +1,21 @@
+{
+  "name": "react-native-echarts",
+  "version": "0.0.1",
+  "description": "react-native echarts componment",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunziyuan/react-native-echarts.git"
+  },
+  "keywords": [
+    "react-native",
+    "echarts",
+    "chart",
+    "charts"
+  ],
+  "author": "lunziyuan",
+  "license": "MIT"
+}
